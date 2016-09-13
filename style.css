@@ -1,5 +1,3 @@
-
-
 @import 'https://fonts.googleapis.com/css?family=Indie+Flower';
 
 
@@ -10,6 +8,14 @@ h1 {
 }
 h2 {font-family: Indie Flower;
 }
+h3 {font-family: Indie Flower;
+}
 h2 {
 color :pink;
+}
+p {color : gray;
+}
+h3 {color : pink
+}
+p2{color : gray
 }
